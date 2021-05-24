@@ -7,7 +7,7 @@
 [![GitHub Carmen](https://img.shields.io/github/followers/carmenmoralesb?label=follow&style=social)](https://github.com/carmenmoralesb)
 
 
-### :sparkles: Know me a little!
+### :sparkles: Know me!!
 
 ```kotlin
 class Me { 
