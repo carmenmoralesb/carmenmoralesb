@@ -7,7 +7,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### :sparkles: Know me!!
+### :sparkles: 𝒫𝓇𝑒𝓈𝑒𝓃𝓉𝒶𝓉𝒾𝑜𝓃
 
 ```python
 
@@ -42,7 +42,7 @@ person = Person(
 )
 ```
 
-✨ <em> You can contact me if you want! :)</em>
+✨ <em>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</em>
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmenmoralesbonet/)](https://www.linkedin.com/in/carmenmoralesbonet/)
 [![GitHub Carmen](https://img.shields.io/github/followers/carmenmoralesb?label=follow&style=social)](https://github.com/carmenmoralesb)
 ---
