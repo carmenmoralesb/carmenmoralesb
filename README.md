@@ -15,13 +15,12 @@ import datetime # we will use this for date objects
 
 class Person:
 
-    def __init__(self, name, surname, birthdate, address, telephone, email):
+    def __init__(self, name, surname, birthdate, location, work, email):
         self.name = name
         self.surname = surname
         self.birthdate = birthdate
-
-        self.address = address
-        self.telephone = telephone
+        self.location = location
+        self.work = work
         self.email = email
 
     def age(self):
