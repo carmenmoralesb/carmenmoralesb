@@ -1,5 +1,5 @@
-<h2> Hi, I'm Carmen! <img src="https://como-funciona.com/wp-content/uploads/2019/08/python.png" width="50"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYXuyL7OASrkmLkYDqKN4FQMC1CBZv0tIaw&usqp=CAU" height="50" width="50"></h2>
-<img align='right' src="https://i.pinimg.com/originals/20/61/91/20619103a1d2790a691475c613fa8031.jpg" height="50" width="50">
+<h2> Hi, I'm Carmen! ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</h2>
 </br><em>Developer at <a href="https://www.sdos.es/home">SDOS :heart:
 </em></p>
 
