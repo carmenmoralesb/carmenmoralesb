@@ -24,7 +24,10 @@
 <img src="header_projects.png" width="80">
 
 
---- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=Dockerized_Museum_Project)](https://github.com/carmenmoralesb/Dockerized_Museum_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=Project_Finale_COVID19)](https://github.com/carmenmoralesb/Project_Finale_COVID19)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=Python_Bruteforce_Practice)](https://github.com/carmenmoralesbPython_Bruteforce_Practice)
+
 
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmenmoralesbonet/)](https://www.linkedin.com/in/carmenmoralesbonet/)
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_carmenmb_)](https://twitter.com/_carmenmb_)
