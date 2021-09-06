@@ -1,9 +1,8 @@
-
+![](header.png)
 
 ### Languages
 
-![](https://img.shields.io/badge/-python-white.svg)
-![](https://img.shields.io/badge/-java-white.svg)
+![](https://img.shields.io/badge/-python-white.svg)![](https://img.shields.io/badge/-java-white.svg)
 ![](https://img.shields.io/badge/-kotlin-white.svg)
 ![](https://img.shields.io/badge/-php-white.svg)
 
