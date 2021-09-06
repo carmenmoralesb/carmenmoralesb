@@ -7,8 +7,6 @@
 ![](https://progress-bar.dev/70?title=kotlin) 
 ![](https://progress-bar.dev/45?title=php) 
 ![](https://progress-bar.dev/40?title=javascript) 
-![](https://progress-bar.dev/35?title=c#) 
-![](https://progress-bar.dev/35?title=javascript)
 
 <img src="header_frameworks.png" width="150">
 
