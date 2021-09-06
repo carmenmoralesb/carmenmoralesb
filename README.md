@@ -24,7 +24,11 @@
 <img src="header_projects.png" width="80">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=Dockerized_Museum_Project)](https://github.com/carmenmoralesb/Dockerized_Museum_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=
+/
+django_project_management_museum)](https://github.com/carmenmoralesb/
+/
+django_project_management_museum)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid19)](https://github.com/carmenmoralesb/django_project_covid19)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=Python_Bruteforce_Practice)](https://github.com/carmenmoralesbPython_Bruteforce_Practice)
 
