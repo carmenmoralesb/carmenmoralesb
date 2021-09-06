@@ -43,7 +43,7 @@ person = Person(
 )
 ```
 
-✨ <em>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</em>
+✨ <em>𝓒𝓸𝓷𝓽𝓪𝓬𝓽</em> <br>
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmenmoralesbonet/)](https://www.linkedin.com/in/carmenmoralesbonet/)
 [![GitHub Carmen](https://img.shields.io/github/followers/carmenmoralesb?label=follow&style=social)](https://github.com/carmenmoralesb)
 ---
