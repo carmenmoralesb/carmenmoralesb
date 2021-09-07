@@ -1,8 +1,8 @@
 <img src="header.png" width="600">
 
-  <samp> Programmer with experience in web and mobile development. I studied  4 years in Cádiz (2yrs Certificate of Higher Education in Web Development and 2yrs in Certificate of Higher Education in Systems&Network Administration. Now I am professionally dedicated to the world of Android development  but in my free time I like to continue learning other languages and technologies. I consider myself a fan of Python :heart:
-
+  <samp> Programmer with experience in web and mobile development. I studied  4 years in Cádiz (2yrs Certificate of Higher Education in Web Development and 2yrs in Certificate of Higher Education in Systems&Network Administration). Now I am professionally dedicated to the world of Android development  but in my free time I like to continue learning other languages and technologies. I consider myself a fan of Python :heart:
   </samp>
+ 
 
 <img src="header_programming.png" width="300">
 
