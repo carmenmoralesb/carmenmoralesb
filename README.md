@@ -31,7 +31,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=python_bruteforce_practice)](https://github.com/carmenmoralesb/python_bruteforce_practice)
 
 
-If you are interested in contacting me for a job offer or doing a collaborative project ...
+<samp> If you are interested in contacting me for a job offer or doing a collaborative project ...</samp>
 
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmenmoralesbonet/)](https://www.linkedin.com/in/carmenmoralesbonet/)
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_carmenmb_)](https://twitter.com/_carmenmb_)
