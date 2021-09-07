@@ -26,12 +26,14 @@
 <img src="header_projects.png" width="80">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum)](https://github.com/carmenmoralesb/django_project_management_museum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019)](https://github.com/carmenmoralesb/django_project_covid_2019)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=python_bruteforce_practice)](https://github.com/carmenmoralesb/python_bruteforce_practice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum&theme=graywhite)](https://github.com/carmenmoralesb/django_project_management_museum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019&theme=graywhite)](https://github.com/carmenmoralesb/django_project_covid_2019)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=python_bruteforce_practice&theme=graywhite)](https://github.com/carmenmoralesb/python_bruteforce_practice)
 
 
 <samp> If you are interested in contacting me for a job offer or doing a collaborative project ...</samp>
 
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmenmoralesbonet/)](https://www.linkedin.com/in/carmenmoralesbonet/)
 [![Linkedin: carmenmorales](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_carmenmb_)](https://twitter.com/_carmenmb_)
+
+[![carmenmoralesb GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenmoralesb&theme=graywhite)](https://github.com/carmenmoralesb/github-readme-stats)
