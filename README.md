@@ -23,7 +23,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum)](https://github.com/carmenmoralesb/django_project_management_museum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid19)](https://github.com/carmenmoralesb/django_project_covid19)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019)](https://github.com/carmenmoralesb/django_project_covid_2019)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=python_bruteforce_practice)](https://github.com/carmenmoralesb/python_bruteforce_practice)
 
 
