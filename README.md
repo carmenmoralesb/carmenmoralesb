@@ -13,6 +13,7 @@
 ![](https://progress-bar.dev/40?title=javascript) 
 
 <img src="header_frameworks.png" width="150">
+
 ![](https://progress-bar.dev/80?title=android)
 ![](https://progress-bar.dev/72?title=django)
 ![](https://progress-bar.dev/40?title=laravel)
