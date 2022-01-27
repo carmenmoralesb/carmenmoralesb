@@ -6,14 +6,14 @@
 
 <img src="header_programming.png" width="300">
 
+![](https://progress-bar.dev/80?title=kotlin) 
 ![](https://progress-bar.dev/75?title=python) 
 ![](https://progress-bar.dev/72?title=java) 
-![](https://progress-bar.dev/70?title=kotlin) 
 ![](https://progress-bar.dev/45?title=php) 
 ![](https://progress-bar.dev/40?title=javascript) 
 
 <img src="header_frameworks.png" width="150">
-
+![](https://progress-bar.dev/80?title=android)
 ![](https://progress-bar.dev/72?title=django)
 ![](https://progress-bar.dev/40?title=laravel)
 ![](https://progress-bar.dev/20?title=fastapi)
