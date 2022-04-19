@@ -24,7 +24,7 @@ I’m a mobile developer who has two years of professional experience in mainten
 ## Presentation  
 <table><tr><td valign="center" width="50%">
 
-- 🔭 I’m currently working on [Minsait](https://www.minsait.com/es)  
+- 🔭 I’m currently working as Mobile Developer!
 
 - 🌱 I’m currently learning *React Native* & Android developemnt with *Kotlin*  
   
