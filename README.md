@@ -1,40 +1,26 @@
 <img src="header.png" width="600">
 
-  <samp> Programmer with experience in web and mobile development. I studied  4 years in Cádiz (2yrs Certificate of Higher Education in Web Development and 2yrs in Certificate of Higher Education in Systems&Network Administration). Now I am professionally dedicated to the world of Android development  but in my free time I like to continue learning other languages and technologies.
-  </samp>
- 
+<h3 align="center">A Mobile developer from Cádiz, Spain ☀️</h3>
 
-<img src="header_programming.png" width="300">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carmenmoralesb&label=Profile%20views&color=0e75b6&style=flat" alt="carmenmoralesb" /> </p>
 
-![](https://progress-bar.dev/80?title=kotlin) 
-![](https://progress-bar.dev/75?title=python) 
-![](https://progress-bar.dev/72?title=java) 
-![](https://progress-bar.dev/45?title=php) 
-![](https://progress-bar.dev/40?title=javascript) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carmenmoralesb" alt="carmenmoralesb" /></a> </p>
 
-<img src="header_frameworks.png" width="150">
+- 🔭 I’m currently working on [Minsait](https://www.minsait.com/es)
 
-![](https://progress-bar.dev/80?title=android)
-![](https://progress-bar.dev/72?title=django)
-![](https://progress-bar.dev/40?title=laravel)
-![](https://progress-bar.dev/20?title=fastapi)
+- 🌱 I’m currently learning **React Native, JetPack Compose, Flutter**
 
-<img src="header_others.png" width="80">
+- 📫 How to reach me **carmen.morales.bonet@gmail.com**
 
-![](https://progress-bar.dev/90?title=html)
-![](https://progress-bar.dev/80?title=css)
+- 📄 Know about my experiences [https://www.linkedin.com/in/carmenmoralesbonet/](https://www.linkedin.com/in/carmenmoralesbonet/)
 
-<img src="header_projects.png" width="80">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum&theme=graywhite)](https://github.com/carmenmoralesb/django_project_management_museum)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019&theme=graywhite)](https://github.com/carmenmoralesb/django_project_covid_2019)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=python_bruteforce_practice&theme=graywhite)](https://github.com/carmenmoralesb/python_bruteforce_practice)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carmenmoralesb&show_icons=true&locale=en&layout=compact" alt="carmenmoralesb" /></p>
 
-
-<samp> If you are interested in contacting me for a job offer or doing a collaborative project ...</samp>
-
-[![Linkedin: carmenmorales](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmenmoralesbonet/)](https://www.linkedin.com/in/carmenmoralesbonet/)
-[![Linkedin: carmenmorales](https://img.shields.io/badge/-twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_carmenmb_)](https://twitter.com/_carmenmb_)
-
-[![carmenmoralesb GitHub stats](https://github-readme-stats.vercel.app/api?username=carmenmoralesb&theme=graywhite)](https://github.com/carmenmoralesb/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carmenmoralesb&show_icons=true&locale=en" alt="carmenmoralesb" /></p>
