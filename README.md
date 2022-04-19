@@ -100,5 +100,3 @@ I’m a mobile developer who has two years of professional experience in mainten
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
