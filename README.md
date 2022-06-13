@@ -36,7 +36,7 @@ Throughout this trajectory I have participated in several projects, both `full s
 **My Projects** 👩‍💻
 ###
 
-| Proyectos | Segundo encabezado |
+| Tools & Languages | Repository |
 | ------------- | ------------- |
 | Django, Python, SQL, Javascript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/django_project_management_museum)|
 | Django, Python, SQL, Javascript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/django_project_covid_2019)|
