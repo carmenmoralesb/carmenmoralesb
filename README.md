@@ -1,102 +1,94 @@
-## Hey 👋, I'm Carmen 🌸  
+### Hi 👋🏻 I'm Carmen Morales!
+
+#### Hello you are the visitor
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=carmenmoralesb.visitor-badge&left_color=black&right_color=pink) 
+
+
+
+I'm a Developer with 3 years of experience in the sector.
+
+I have worked for 3 years in the wonderful world of development.
+
+Throughout this trajectory I have participated in several projects, both `full stack` and `front-end`. My specialization is mobile development using `Kotlin` & `Java` but I'm interested in the backend.
+
+![Pusheen-welcome](https://i.pinimg.com/474x/f0/f7/46/f0f746550ba79a00b70af77ff690f23e--pusheen-gif-miraculous-ladybug.jpg)
+
+
+🔭 I’m currently working as Mobile Developer!
+
+🌱 I’m currently learning *React Native* & Android developemnt with *Kotlin*  
   
-
-<a href="https://github.com/carmenmoralesb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/_carmenmb_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/carmenmoralesbonet" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+🦋 I’m curious about *Python* and the potential of this programming language, i'm curious about developemnt in backend too!
   
-
-
-
-### Glad to see you here!  
-I’m a mobile developer who has two years of professional experience in maintenance and developing mobile apps (most of them in Android). Although I dedicate myself professionally to the frontend, I continue to learn backend using python & databases!  
+🍎 I did a two years studies in *Web Development* but i have two years certificate in *SysAdmin* too!
   
-
-<br/>  
-
-
-## Presentation  
-<table><tr><td valign="center" width="50%">
-
-- 🔭 I’m currently working as Mobile Developer!
-
-- 🌱 I’m currently learning *React Native* & Android developemnt with *Kotlin*  
-  
-- 🦋 I’m curious about *Python* and the potential of this programming language!
-  
-- 🍎 I did a two years studies in *Web Development* but i have two years certificate in *SysAdmin* too!
-    
-- ⚡ I prefer cats over dogs 😽  
+⚡ I prefer cats over dogs 😽  
 
 
-</td><td valign="center" width="50%">
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carmenmoralesbonet/)
 
-<div align="right">
-<img src="https://media4.giphy.com/media/fedryX7dMGMe6lgqDm/200w.gif" align="right" style="width: 100%" />
-</div>  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_carmenmb_)
 
-
-</td></tr></table>  
-
-<br/>  
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@carmen.morales.bonet/)
 
 
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-</div>  
 
-<br/>  
+**My Projects** 👩‍💻
+###
+
+| Proyectos | Segundo encabezado |
+| ------------- | ------------- |
+| Django, Python, SQL, Javascript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/django_project_management_museum)|
+| Django, Python, SQL, Javascript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/django_project_covid_2019)|
+| React Native, Javascript, JSON  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=react_native_example_app&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/react_native_example_app)|
+| Kotlin, Android, MVVM, JSON , XML  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=kotlin_tarot_app&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/kotlin_tarot_app)|
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+**My GitHub stats:** 👓
+###
 
-<img src="https://github-readme-stats.vercel.app/api?username=carmenmoralesb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+[![Medium Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=carmenmoralesb&theme=swift&show_icons=true)](https://medium.com/@carmen.morales.bonet/)
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmenmoralesb&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=carmenmoralesb&&style=flat-square)  
-  
-
-<br/>  
+[![Medium Badge](https://github-readme-stats.vercel.app/api?username=carmenmorales&theme=swift&show_icons=true)](https://medium.com/@carmen.morales.bonet/)
 
 
-<br />
+
+**Technologies:** 🛠
+###
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=android-studio&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&plastic&logo=kotlin&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=palstic&logo=postgresql&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+
+![Json](https://img.shields.io/badge/json-5E5C5C?style=plastic&logo=json&logoColor=white)
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
+
+
+**Contact with me:**
+
+### 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carmenmoralesbonet/)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_carmenmb_)
+
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@carmen.morales.bonet/)
+
+
+
+
 
