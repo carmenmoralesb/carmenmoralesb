@@ -38,7 +38,6 @@ Throughout this trajectory I have participated in several projects, both `full s
 
 | Tools & Languages | Repository |
 | ------------- | ------------- |
-| Django, Python, SQL, Javascript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_management_museum&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/django_project_management_museum)|
 | Django, Python, SQL, Javascript | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=django_project_covid_2019&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/django_project_covid_2019)|
 | React Native, Javascript, JSON  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=react_native_example_app&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/react_native_example_app)|
 | Kotlin, Android, MVVM, JSON , XML  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carmenmoralesb&repo=kotlin_tarot_app&theme=swift&show_icons=true)](https://github.com/carmenmoralesb/kotlin_tarot_app)|
