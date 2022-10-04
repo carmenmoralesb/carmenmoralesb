@@ -1,10 +1,5 @@
 ### Hi 👋🏻 I'm Carmen Morales!
 
-#### Hello you are the visitor
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=carmenmoralesb.visitor-badge&left_color=black&right_color=pink) 
-
-
-
 I'm a Developer with 3 years of experience in the sector.
 
 I have worked for 3 years in the wonderful world of development.
