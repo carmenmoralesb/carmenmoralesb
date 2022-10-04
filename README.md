@@ -1,6 +1,6 @@
 ### Hi 👋🏻 I'm Carmen Morales!
 
-I'm a Developer with 3 years of experience in the sector.
+I'm a Developer with 3 years of experience in IT.
 
 I have worked for 3 years in the wonderful world of development.
 
